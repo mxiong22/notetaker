@@ -22,4 +22,4 @@ This application was created by using JavaScript, node.js, and express.js.
 - Node 
 - Express 
 
-# Tutorial Video Link: 
+# Application Link and Screenshot of Deployed Application
