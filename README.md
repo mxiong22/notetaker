@@ -1,6 +1,6 @@
 # Module 11 Challenge: Note Taker Application
 
-# I created a note taking application located on the local host 3001 that lets the user enter in a note title, and note body in the application, then save the note on the application, which will appear on the application with any other exisiting saved notes. 
+I created a note taking application located on the local host 3001 that lets the user enter in a note title, and note body in the application, then save the note on the application, which will appear on the application with any other exisiting saved notes. 
 The purpose of building this application is for the user to be able to create any notes or tasks to complete have it saved on the application for them to view. 
 During the making of the application, I learned about routing requests to be used to connect front to back end contents. 
 
