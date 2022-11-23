@@ -13,7 +13,7 @@ This application was created by using JavaScript, node.js, and express.js.
 - Open intergated terminal 
 - Enter node index.js
 - Prompt "app is listening" 
-- Open Google Chrome http://localhost:3001
+- Application URL: https://polar-thicket-72487.herokuapp.com/notes
 - Use the note taking application, and save information entered 
 - Saved notes will appear and be able to access on the left hand column 
 
